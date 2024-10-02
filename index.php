@@ -40,6 +40,7 @@
 <?php
  include_once(DATA."header.php");
  include_once(DATA."sidebar.php");
+ include_once(SAYFA."home.php");
  include_once(DATA."footer.php");
 
 ?>
